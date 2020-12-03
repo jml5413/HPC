@@ -43,7 +43,7 @@ This repository serves as a collection of walkthroughs, utilities, and other res
 ## ℹ️ Programming languages
 * [C](/languages/c)
 * [Fortran](/languages/fortran)
-* [Python](/languages/python)
+* [Python](languages/python)
 
 ## 🔧 Utilities and Tools
 * [Sample Slurm Batch Scripts](/slurm/README.md)
