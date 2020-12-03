@@ -13,11 +13,11 @@ speak up!
 
 It is every maintainer's responsibility to:
 
-* Expose a clear roadmap for improving their component.
+* Expose a clear roadmap for improving the repository.
 * Deliver prompt feedback and decisions on pull requests.
-* Be available to anyone with questions, bug reports, criticism etc. on their component.
+* Be available to anyone with questions, bug reports, criticism etc. on the repository.
   This includes GitHub issues and pull requests.
-* Make sure their component respects the philosophy, design and roadmap of the project.
+* Make sure the repository respects the philosophy, design and roadmap of the project.
 
 ## How are decisions made?
 
@@ -32,16 +32,14 @@ repository.
 
 All decisions affecting this project, big and small, follow the same procedure:
 
-1. Discuss a proposal on the [mailing list](CONTRIBUTING.md#mailing-list).
+1. Open a pull request.
    Anyone can do this.
-2. Open a pull request.
+2. Discuss the pull request.
    Anyone can do this.
-3. Discuss the pull request.
-   Anyone can do this.
-4. Endorse (`LGTM`) or oppose (`Rejected`) the pull request.
+3. Review the pull request.
    The relevant maintainers do this (see below [Who decides what?](#who-decides-what)).
    Changes that affect project management (changing policy, cutting releases, etc.) are [proposed and voted on the mailing list](GOVERNANCE.md).
-5. Merge or close the pull request.
+4. Merge or close the pull request.
    The relevant maintainers do this.
 
 ### I'm a maintainer, should I make pull requests too?
@@ -53,10 +51,10 @@ made through a pull request.
 
 All decisions are pull requests, and the relevant maintainers make
 decisions by accepting or refusing the pull request. Review and acceptance
-by anyone is denoted by adding a comment in the pull request: `LGTM`.
+by anyone is denoted by adding a comment in the pull request.
 However, only currently listed `MAINTAINERS` are counted towards the required
-two LGTMs. In addition, if a maintainer has created a pull request, they cannot
-count toward the two LGTM rule (to ensure equal amounts of review for every pull
+two Reviews. In addition, if a maintainer has created a pull request, they cannot
+count toward the two Review rule (to ensure equal amounts of review for every pull
 request, no matter who wrote it).
 
 Overall the maintainer system works because of mutual respect.
